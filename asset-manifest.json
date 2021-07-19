@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/akhila_cs20b030/static/css/main.82a26a5a.chunk.css",
+    "main.js": "/akhila_cs20b030/static/js/main.7ab179f9.chunk.js",
+    "main.js.map": "/akhila_cs20b030/static/js/main.7ab179f9.chunk.js.map",
+    "runtime-main.js": "/akhila_cs20b030/static/js/runtime-main.9b40d36f.js",
+    "runtime-main.js.map": "/akhila_cs20b030/static/js/runtime-main.9b40d36f.js.map",
+    "static/js/2.9c13acd2.chunk.js": "/akhila_cs20b030/static/js/2.9c13acd2.chunk.js",
+    "static/js/2.9c13acd2.chunk.js.map": "/akhila_cs20b030/static/js/2.9c13acd2.chunk.js.map",
+    "index.html": "/akhila_cs20b030/index.html",
+    "static/css/main.82a26a5a.chunk.css.map": "/akhila_cs20b030/static/css/main.82a26a5a.chunk.css.map",
+    "static/js/2.9c13acd2.chunk.js.LICENSE.txt": "/akhila_cs20b030/static/js/2.9c13acd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b40d36f.js",
+    "static/js/2.9c13acd2.chunk.js",
+    "static/css/main.82a26a5a.chunk.css",
+    "static/js/main.7ab179f9.chunk.js"
+  ]
+}
